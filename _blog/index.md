@@ -4,6 +4,7 @@ title: "Blog"
 description: 끄적끄적 일상 이야기 📌
 main: true
 project-header: true
+# header-img: "img/2020.jpeg"
 # header-img: img/about.jpg
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "cindy0306.github.io"
+title: "cindy-devlog"
 main: true
-subtitle: cindy bilg
-description: cindy blog
-
+subtitle: cindy-devlog
+description: cindy-devlog
 ---
+
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
