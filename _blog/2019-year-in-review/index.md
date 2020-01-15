@@ -7,7 +7,7 @@ blog: true
 text: true
 author: "Cindy Cheon"
 post-header: true
-header-img: "img/header.jpeg"
+header-img: "img/header.jpg"
 order: 1
 ---
 
