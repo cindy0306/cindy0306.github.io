@@ -7,7 +7,7 @@ blog: true
 text: true
 author: "Cindy Cheon"
 post-header: true
-header-img: "img/2020.jpeg"
+header-img: "img/header.jpeg"
 order: 1
 ---
 
