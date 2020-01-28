@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019년 회고"
-subtitle: "Bye 2019 🖐"
+subtitle: "Bye 2019~🖐"
 type: "Year in Review"
 blog: true
 text: true
