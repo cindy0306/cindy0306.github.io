@@ -20,7 +20,7 @@ description: cindy-devlog
             <div class="underline"></div>
         </div>.
     </h1> -->
-    <h2 class="intro">배우는 개발자 'cindy'입니다.</h2>
+    <!-- <h2 class="intro">배우는 개발자 'cindy'입니다.</h2> -->
 </section>
 </div>
 {% include resume.html %}
