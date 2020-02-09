@@ -9,7 +9,7 @@ description: cindy-devlog
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm grad to develop !
+    I'm glad to develop !<br>
     </h1>
     <!-- <h1 class="intro">a Digital Product Designer at 
         <div class="intro-link">
