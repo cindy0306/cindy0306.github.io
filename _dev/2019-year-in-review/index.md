@@ -110,7 +110,7 @@ render() {
 }
 ```
 
-`**justify**` 은 컨테이너 내부에 있는 아이템들을 정렬 설정할 때 쓰입니다.
+**`justify`** 은 컨테이너 내부에 있는 아이템들을 정렬 설정할 때 쓰입니다.
 
 `'flex-start'| 'center'| 'flex-end'| 'space-between'| 'space-around'| 'space-evenly'`
 
@@ -118,7 +118,7 @@ render() {
 
 ## 🤔 space-around vs space-evenly
 
-`**justify`\*\* 중 헷갈렸던 `space-around` 와 `space-evenly` 의 차이점을 알아 볼게요!
+**`justify`** 중 헷갈렸던 `space-around` 와 `space-evenly` 의 차이점을 알아 볼게요!
 
 `space-around` 는 item 시작과 끝의 공간을 1로 배분한다면 item 사이에 있는 공간을 2로 배분을 하게 됩니다!
 
@@ -172,7 +172,7 @@ const Styles = makeStyles((theme: Theme) =>
 );
 ```
 
-`**alignItems**` 은 컨테이너 내부에 있는 아이템들을 **수직 정렬** 설정할 때 쓰입니다.
+**`alignItems`** 은 컨테이너 내부에 있는 아이템들을 **수직 정렬** 설정할 때 쓰입니다.
 
 `'flex-start'| 'center'| 'flex-end'| 'stretch'| 'baseline'`
 
@@ -233,7 +233,7 @@ const Styles = makeStyles((theme: Theme) =>
 );
 ```
 
-`alignContent` 는 **컨테이너 끼리**의 정렬을 할때 쓰입니다.
+**`alignContent`** 는 **컨테이너 끼리**의 정렬을 할때 쓰입니다.
 
 `'stretch'| 'center'| 'flex-start'| 'flex-end'| 'space-between'| 'space-around'`
 
@@ -245,9 +245,9 @@ const Styles = makeStyles((theme: Theme) =>
 
 # 자식(item)
 
----
 
-자식의 배치,정렬 또한 위에 부모에서 나열한 것 중에 `**alignContent`\*\* 제외한 모든 것이 동일하게 적용됩니다
+
+자식의 배치,정렬 또한 위에 부모에서 나열한 것 중에 **`alignContent`** 제외한 모든 것이 동일하게 적용됩니다
 
 # sandbox 로 Grid를 컨트롤 해보세요!
 
